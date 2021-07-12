@@ -1,0 +1,26 @@
+{
+  "773001800596586527": {
+    "isAdmin": "true",
+    "isReseller": "true",
+    "isBanned": "false",
+    "banReason": "",
+    "bannedBy": "",
+	"Server" : {
+    "serverNumber": "1",
+    "serverIP": "FIRST SERVER",
+    "serverExpire": 1603231070,
+    "isActive": false,
+    "isDebug": "false",
+    "isPrivate": "false",
+    "serverPort": "1",
+    "maxCars": "13",
+    "maxPlayers": "10",
+    "serverMap": "/levels/freedom/info.json",
+    "serverName": "Turlx#6252’s Server",
+      "serverDesc": " Droplet Hosting Test Server",
+      "serverAuth": "f3db5979-ce46-4d15-a542-f82aff0e8c0e"
+    },
+    "expire": 16223127927,
+    "plan": "Advanced"
+  }
+}

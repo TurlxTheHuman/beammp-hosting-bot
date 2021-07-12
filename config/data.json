@@ -1,0 +1,22 @@
+{
+    "admins": [
+        "773001800596586527",
+        ""
+    ],
+
+    "totalservers": ["2"],
+    "servers": [
+        {
+           "ip": "192.168.1.137",
+           "name": "Node-1",
+           "availablePort": "30814",
+           "statusoverride": ""
+        },
+        {
+            "ip": "192.168.1.134",
+            "name": "Node-2",
+            "availablePort": "30814",
+            "statusoverride": ""
+         }
+    ]
+}

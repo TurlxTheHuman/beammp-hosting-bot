@@ -1,0 +1,21 @@
+{
+    "token": "",
+    "prefix": ".",
+    "name": "Droplet",
+
+    "channels": {
+        "stats": "",
+        "logs": "782837010439208981",
+        "error": ""
+    },
+    "thumbnails": [
+        "https://cdn.discordapp.com/attachments/786022520910250024/815987813899436102/water.png",
+        "https://cdn.discordapp.com/attachments/786022520910250024/815987813899436102/water.png"
+    ],
+    "totalservers": ["1"],
+    "BeamMP": {
+        "ownerdiscord": "Turlx#6252",
+        "name": "Droplet BeamMP Server",
+        "statusoverride": ""
+    }
+}
