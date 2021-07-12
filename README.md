@@ -4,7 +4,6 @@ This beammp server hosting bot (My V1) allow people to share host beammp servers
 P.S. This is the first thing that I wrote in NodeJS - improvements to the code via pull requests are encouraged. Dont Skid It, Give Me Credit At Least.
 
 ## About
-- Made by Turlx from Droplet Services
 - Instagram: [Tur_lx](https://instagram.com/tur_lx/)
 - Discord: [https://discord.gg/VfhrGySMTB](https://discord.gg/VfhrGySMTB)
 - GitHub: TurlxTheHuman
